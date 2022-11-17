@@ -6,6 +6,7 @@ const b = 4;
 
 
 console.log(b);
+console.log(a);
 const suma = (c,d) => {   
     return c+d+1;
 }
