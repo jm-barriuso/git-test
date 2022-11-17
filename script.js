@@ -6,7 +6,7 @@ const b = 4;
 
 
 console.log(a);
-const suma = (a,b) => {   
+const suma = (e,f) => {   
     return a+b+1;
 }
 
