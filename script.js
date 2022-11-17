@@ -2,8 +2,11 @@ const a = 3;
 const b = 4;
 
 
+
+
+
 const suma = (a,b) => {   
-    return a+b;
+    return a+b+1;
 }
 
 const multiply = (a,b) => {
