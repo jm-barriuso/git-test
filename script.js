@@ -6,8 +6,8 @@ const division = (a,b) =>{
 
 }
 
-const suma = (a,b) => {   
-    return a+b+1;
+const suma2 = (c,d) => {   
+    return c+d+1;
 }
 
 const multiply = (a,b) => {
@@ -15,6 +15,6 @@ const multiply = (a,b) => {
     return a*b
 }
 
-console.log(suma(a,b));
+console.log(suma2(a,b));
 console.log(multiply(a,b));
 console.log(division(a,b));
