@@ -5,9 +5,9 @@ const b = 4;
 
 
 
-console.log(a);
-const suma = (a,b) => {   
-    return a+b+1;
+console.log(b);
+const suma = (c,d) => {   
+    return c+d+1;
 }
 
 const multiply = (a,b) => {
