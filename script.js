@@ -1,6 +1,7 @@
 const a = 3;
 const b = 4;
 
+console.log("hola como estas")
 const division = (a,b) =>{
     return a/b
 
